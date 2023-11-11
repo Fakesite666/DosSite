@@ -19,7 +19,7 @@
     3. apt install git
     4. apt install python3-pip
     5. apt install python2 && apt install python3
-    6. git clone https://github.com/MrSanZz/pandora
+    6. git clone https://github.com/Fakesite666/DosSite
     7. cd pandora
     8. pip3 install -r requirements.txt
     9. python3 pandora.py
@@ -32,7 +32,7 @@
     3. apt install pip / pip3
     4. apt install python3
     5. apt install git
-    6. git clone https://github.com/MrSanZz/pandora
+    6. git clone https://github.com/Fakesite666/DosSite
     7. cd pandora
     8. pip3 install -r requirements.txt
     9. python3 pandora.py
@@ -44,7 +44,7 @@
     3. pkg install python3
     4. pkg install git
     5. pkg install figlet
-    6. git clone https://github.com/MrSanZz/pandora
+    6. git clone https://github.com/Fakesite666/DosSite)
     7. cd pandora
     8. pip3 install -r requirements.txt
     9. python3 pandora.py
